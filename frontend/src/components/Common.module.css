@@ -1,0 +1,42 @@
+.contactsection {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(14, 3, 77);
+    gap: 30px;
+    color : white;
+}
+
+.contacttop1 {
+    display: flex;
+    flex-direction: row ; 
+    align-items: space-between;
+    gap : 40px;
+
+}
+
+.contacttopinner{
+    display: flex;
+    flex-direction:row;
+    gap: 20px;
+}
+.contacttop2 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.contactdetails {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    background-color: rgb(108, 108, 233);
+    margin-top: 20px;
+    margin-bottom: 20px;;
+}
+
+
