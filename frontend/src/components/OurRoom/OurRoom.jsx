@@ -30,8 +30,8 @@ function OurRoom()
                 </div>
                 <div>
                   <img src = {roomimg2} className = {styles.roomimgdetails} alt = "room img " /> 
-                  <h4> 2 BEDS </h4>
-                  <h2> Hera</h2>
+                  <h4> 4 BEDS </h4>
+                  <h2> Dimitra </h2>
                   <p>
                     Kale chips kanusgaard mustache blog fashion axe selfies salvia. Gluten-free <br/> 
                      post-ironix deep typewriter.
@@ -46,7 +46,7 @@ function OurRoom()
                    <div>
                   <img src = {roomimg3} className = {styles.roomimgdetails} alt = "room img " /> 
                   <h4> 2 BEDS </h4>
-                  <h2> Hera</h2>
+                  <h2> Apollo </h2>
                   <p>
                     Kale chips kanusgaard mustache blog fashion axe selfies salvia. Gluten-free <br/> 
                      post-ironix deep typewriter.
@@ -58,8 +58,8 @@ function OurRoom()
                 </div>
                    <div>
                   <img src = {roomimg4} className = {styles.roomimgdetails} alt = "room img " /> 
-                  <h4> 2 BEDS </h4>
-                  <h2> Hera</h2>
+                  <h4> 4 BEDS </h4>
+                  <h2> Athena </h2>
                   <p>
                     Kale chips kanusgaard mustache blog fashion axe selfies salvia. Gluten-free <br/> 
                      post-ironix deep typewriter.

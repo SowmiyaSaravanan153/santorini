@@ -203,3 +203,11 @@
 .ourroomhead{
     background-color: rgb(9, 9, 68);
 }
+
+.roombutton {
+     background-color: rgb(95, 78, 190);
+    color: white;
+    padding: 10px 20px;
+    border-radius: none;
+    font-size: 10px;
+}
