@@ -141,3 +141,9 @@
     width: 80px;
     border-radius: 50%;
 }
+
+.numbercontainer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(15, 15, 82);
+}

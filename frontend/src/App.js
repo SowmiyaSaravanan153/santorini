@@ -6,6 +6,8 @@ import SantoriniHome from './components/SantoriniHome/SantoriniHomecode.jsx';
 import HomeForm from './components/HomeForm/HomeForm';
 import Review from './components/Reviews/Reviewscode';
 
+import Number from './components/numbers/Numbers';
+
 function App() {
   return (
     <div className="App">
@@ -13,8 +15,10 @@ function App() {
       <SantoriniHome />
       <HomeForm />
       <Review />
+      <Number />
       <Contactdetails />
       <ContactSection /> 
+
     
     </div>
   );
