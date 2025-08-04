@@ -132,9 +132,9 @@
     display : flex;
     flex-direction: row;
     justify-content: space-around;
-    background-color:rgb(94, 214, 235);
-    padding-bottom: 30px;
-    padding-top: 30px;
+    background-color:rgb(187, 230, 238);
+    padding-bottom: 10%;
+    padding-top: 10%
 }
 
 .imgedit {
@@ -159,11 +159,47 @@
 .servicescontainer{
     display: flex; 
     flex-direction: row;
-    gap : 10px;
+    gap : 40px;
+    padding-left :150px;
+    padding-right : 40px;
 }
 
 
 .serviceimg{
     height : 300px;
     width : 300px;
+}
+
+.imggalary {
+    height : 250px;
+    width : 250px;
+}
+
+.imgcontainer {
+    display: flex;
+    flex-direction: row;
+    gap : 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+
+}
+
+.choosecontainer {
+    display : flex;
+    flex-direction : row; 
+    padding-left:10%;
+    gap : 50px;
+
+}
+
+.choosemain {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    background-color: rgb(10, 84, 97);
+}
+
+
+.ourroomhead{
+    background-color: rgb(9, 9, 68);
 }

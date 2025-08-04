@@ -13,7 +13,7 @@ function Services() {
                  <div> 
                      <img src = {services1} alt = "services 1 img " className= {styles.serviceimg}/>
                      <h4> SERVICES</h4>
-                     <h1>  Driving Services </h1>
+                    <h2>  Driving Services </h2>
                      <p> Kale chips knausgad mustache blog fashion <br/> axe selfies salvia. Gluten-free post-ironic deep <br/>  typewriter.</p>
 
                  </div>
@@ -21,7 +21,7 @@ function Services() {
 
                      <img src = {services2} alt = "services 2 img " className= {styles.serviceimg} />
                      <h4> SERVICES</h4>
-                     <h1> Private Yoga Sessions </h1>
+                     <h2> Private Yoga Sessions </h2>
                      <p> Kale chips knausgad mustache blog fashion <br/> axe selfies salvia. Gluten-free post-ironic deep <br/>  typewriter.</p>
 
 
@@ -30,7 +30,7 @@ function Services() {
 
                      <img src = {services3 } alt ="services3 img"className= {styles.serviceimg}/>
                      <h4> SERVICES</h4>
-                     <h1>  Local Cuisine seminars </h1>
+                     <h2>  Local Cuisine seminars </h2>
                      <p> Kale chips knausgad mustache blog fashion <br/> axe selfies salvia. Gluten-free post-ironic deep <br/>  typewriter.</p>
 
 

@@ -7,20 +7,24 @@ import HomeForm from './components/HomeForm/HomeForm';
 import Review from './components/Reviews/Reviewscode';
 import Services from './components/Services/Services';
 import Number from './components/numbers/Numbers';
+import ImgGalary from './components/ImgGalary/ImgGalary';
+import Choose from './components/Choose/Choose';
+import OurRoom from './components/OurRoom/OurRoom';
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      <SantoriniHome />
+      <SantoriniHome /> 
       <HomeForm />
       <Review />
+      <OurRoom /> 
+      <Choose />
+      <ImgGalary />
       <Number />
       <Services/> 
       <Contactdetails />
-      <ContactSection /> 
-
-    
+      <ContactSection />
     </div>
   );
 }
