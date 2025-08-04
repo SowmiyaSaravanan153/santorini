@@ -8,9 +8,10 @@ function App() {
   return (
     <div className="App">
       <Navbar />
+      <SantoriniHome />
       <Contactdetails />
       <ContactSection /> 
-      <SantoriniHome />
+      
     </div>
   );
 }
