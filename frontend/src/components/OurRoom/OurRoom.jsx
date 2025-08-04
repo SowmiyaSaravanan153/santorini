@@ -24,7 +24,7 @@ function OurRoom()
                      post-ironix deep typewriter.
 
                   </p>
-                  <button type = "submit " classname = {styles.roombutton }>
+                 <div  classname = {styles.roombutton } > </div><button type = "submit ">
                     View Room
                   </button>
                 </div>
