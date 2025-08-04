@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.daef2168.css",
+    "main.js": "/static/js/main.85718f3a.js",
+    "static/js/453.670e15c7.chunk.js": "/static/js/453.670e15c7.chunk.js",
+    "static/media/reviewimg2.jpg": "/static/media/reviewimg2.ae03cba37dec6661aa52.jpg",
+    "static/media/reviewimg1.png": "/static/media/reviewimg1.77abf5080d818c5496c4.png",
+    "static/media/services2.png": "/static/media/services2.0612848354624f03b4b4.png",
+    "static/media/santorinihome.jpg": "/static/media/santorinihome.98c3de8c4158f149de08.jpg",
+    "static/media/services1.png": "/static/media/services1.f074a9d7dc508d04bd23.png",
+    "static/media/services3.png": "/static/media/services3.f0949c8d744fdf63833a.png",
+    "index.html": "/index.html",
+    "main.daef2168.css.map": "/static/css/main.daef2168.css.map",
+    "main.85718f3a.js.map": "/static/js/main.85718f3a.js.map",
+    "453.670e15c7.chunk.js.map": "/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daef2168.css",
+    "static/js/main.85718f3a.js"
+  ]
+}
