@@ -131,9 +131,10 @@
 .reviewcontainer{
     display : flex;
     flex-direction: row;
-    gap : 20px;
     justify-content: space-around;
     background-color:rgb(94, 214, 235);
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .imgedit {
@@ -145,5 +146,24 @@
 .numbercontainer{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    font-size: 30px;
     background-color: rgb(15, 15, 82);
+}
+
+.h1font {
+    color: white;
+}
+
+
+.servicescontainer{
+    display: flex; 
+    flex-direction: row;
+    gap : 10px;
+}
+
+
+.serviceimg{
+    height : 300px;
+    width : 300px;
 }

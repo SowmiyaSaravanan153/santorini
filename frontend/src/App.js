@@ -5,7 +5,7 @@ import Contactdetails from './components/Contactdetails/Contactdetails';
 import SantoriniHome from './components/SantoriniHome/SantoriniHomecode.jsx';
 import HomeForm from './components/HomeForm/HomeForm';
 import Review from './components/Reviews/Reviewscode';
-
+import Services from './components/Services/Services';
 import Number from './components/numbers/Numbers';
 
 function App() {
@@ -16,6 +16,7 @@ function App() {
       <HomeForm />
       <Review />
       <Number />
+      <Services/> 
       <Contactdetails />
       <ContactSection /> 
 
