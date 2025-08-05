@@ -12,7 +12,8 @@ function OurRoom()
         <h1>
             Our Rooms 
         </h1>
-        <hr/>
+        <hr className = {styles.hrline } />
+        <br/>
         <div className = {styles.roomcontainer}>
             <div className = {styles.roomitem1}>
                 <div>

@@ -241,3 +241,9 @@
     padding-left: 10%;
     padding-right : 5%;
 }
+
+.hrline {
+  width: 70%;
+  background: rgb(189, 162, 12);
+  height: 2px;
+}
