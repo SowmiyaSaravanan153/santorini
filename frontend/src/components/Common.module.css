@@ -20,6 +20,7 @@
     display: flex;
     flex-direction:row;
     gap: 20px;
+    padding-top: 20px;
 }
 .contacttop2 {
     display: flex;
@@ -196,7 +197,7 @@
 .choosemain {
     padding-top: 5%;
     padding-bottom: 5%;
-    background-color: rgb(9, 9, 68);
+    background-color: rgb(187, 230, 238);
 }
 
 
