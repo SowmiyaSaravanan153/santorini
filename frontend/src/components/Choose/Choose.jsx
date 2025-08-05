@@ -2,6 +2,7 @@ import styles from '../Common.module.css';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faStar } from '@fortawesome/free-solid-svg-icons';
 import { faClock } from '@fortawesome/free-solid-svg-icons';
+import {faChild } from '@fortawesome/free-solid-svg-icons';
 
 function Choose() {
     return (
@@ -22,7 +23,7 @@ function Choose() {
                 origin coffee whatever pop-up you probably. </p>
            </div>
            <div>
-                
+                <FontAwesomeIcon icon = {faChild} />
                 <h2>
                     Children-friendly
                 </h2>

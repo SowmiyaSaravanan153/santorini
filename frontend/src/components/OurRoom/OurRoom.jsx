@@ -24,7 +24,7 @@ function OurRoom()
                      post-ironix deep typewriter.
 
                   </p>
-                 <button type = "submit " classname = {styles.roombutton }>
+                 <button type = "submit " className = {styles.roombutton }>
                     View Room
                   </button>
                 </div>
@@ -37,7 +37,7 @@ function OurRoom()
                      post-ironix deep typewriter.
 
                   </p>
-                  <button type = "submit " classname = {styles.roombutton }>
+                  <button type = "submit " className = {styles.roombutton }>
                     View Room
                   </button>
                 </div>
@@ -65,7 +65,7 @@ function OurRoom()
                      post-ironix deep typewriter.
 
                   </p>
-                  <button type = "submit " classname = {styles.roombutton }>
+                  <button type = "submit " className = {styles.roombutton }>
                     View Room
                   </button>
                 </div>
